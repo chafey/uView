@@ -20,7 +20,8 @@ Key Features
 * Uses QIDO to search for studies
 * Uses STOW to save data such as key images, annotations, SR
 * Open Source
-
+* Support for phone, table and desktop devices
+* 
 
 
 
