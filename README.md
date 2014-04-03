@@ -21,7 +21,8 @@ Key Features
 * Uses STOW to save data such as key images, annotations, SR
 * Open Source
 * Support for phone, table and desktop devices
-* 
+
+
 
 
 
